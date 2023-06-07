@@ -7,7 +7,7 @@ public class hello {
         int number = -5;
         System.out.print(number);
         long myLong = 5;
-        System.out.println(myLong);
+       
 
     }
 }
