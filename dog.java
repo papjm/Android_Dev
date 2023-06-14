@@ -12,6 +12,10 @@ public class dog {
         this.hasTale = hasTale;
     }
 
+    public void eat (String food) {
+        System.out.println("Eating" + food);
+    }
+
     public String getName() {
         return name;
     }
